@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "Prosop: semantic shadows of persons past"
+email: willpdfs@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  For years now, microhistorian have brought computers with them to the archives. Their research has produced great lists of names, but for the most part, each historian's data set exists in solitude from those of other historians. History's local turn has been accompanied by a transnational turn, and here too researchers struggle to share and aggregate their data. This project aims to offer a tool that will accomplish this goal. Prosop is a workflow that uses a semantic data model to produce a linked, flexible pool of historical names and demographic information. It will put the best features of social networking applications, collaborative wikis, geotagging, and data search and filtering at the service of social historians. Prosop is designed to meet the disciplinary requirements of professional historians, while remaining attractive to amateur historians and genealogists. 
+baseurl: "/Prosop" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site
+twitter_username: HanleyWill
+github_username:  whanley
+
+# Build settings
+markdown: kramdown
