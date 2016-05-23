@@ -1,1 +1,1 @@
-Webpage for [prosop.org], based on the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) template.
+Webpage for prosop.org, based on the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) template.
