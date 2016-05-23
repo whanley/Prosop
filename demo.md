@@ -4,10 +4,14 @@ title: Demo
 permalink: /demo/
 layout: single
 header:
- teaser: 1882-census.jpg
+  overlay_image: census.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_label: "More Info"
+  cta_url: "https://unsplash.com"
 ---
 
-Execute SPARQL queries using this [form](http://128.186.155.246:8890/).
+Execute SPARQL queries using this [form](http://128.186.155.246:8890/). Login: guest; password: guest
 
 The databases available include:
 
