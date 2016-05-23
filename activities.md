@@ -3,6 +3,8 @@ layout: page
 title: Activities
 permalink: /activities/
 layout: single
+header:
+  teaser: 1882-census.jpg
 ---
 
 **June 8-12, 2015**

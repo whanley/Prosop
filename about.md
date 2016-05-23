@@ -2,6 +2,9 @@
 layout: page
 title: About
 permalink: /about/
+layout:single
+header:
+  teaser: 1882-census.jpg
 ---
 
 For more information, contact [Will Hanley](http://whanley.github.io/Will-Hanley/) by [email](willpdfs@gmail.com) or phone (850 912 9143).
