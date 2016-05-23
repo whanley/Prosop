@@ -2,6 +2,7 @@
 layout: page
 title: Features
 permalink: /features/
+layout: single
 ---
 
 Prosop is a workflow to collect and aggregate information about historical individuals.  The tool is meant to preserve such information in its native format, without any fixed category requirements.  It will then find connections within a very large pool of demographic data, and allow aggregate analysis.  
