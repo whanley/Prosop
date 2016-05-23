@@ -4,7 +4,8 @@ title: Activities
 permalink: /activities/
 layout: single
 header:
-  teaser: census.jpg
+  overlay_image: census.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 **June 8-12, 2015**

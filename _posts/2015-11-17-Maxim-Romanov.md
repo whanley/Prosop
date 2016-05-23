@@ -3,6 +3,8 @@ title:  "Maxim Romanov"
 date:   2015-11-17 10:45:11 -0400
 header:
   overlay_image: census.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+
 categories: 
 	- leipzig 
 	- aksw 

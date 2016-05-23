@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 layout: single
 header:
-  teaser: 1882-census.jpg
+  overlay_image: census.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 For more information, contact [Will Hanley](http://whanley.github.io/Will-Hanley/) by [email](willpdfs@gmail.com) or phone (850 912 9143).

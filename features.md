@@ -4,7 +4,8 @@ title: Features
 permalink: /features/
 layout: single
 header:
-  teaser: 1882-census.jpg
+  overlay_image: census.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
 Prosop is a workflow to collect and aggregate information about historical individuals.  The tool is meant to preserve such information in its native format, without any fixed category requirements.  It will then find connections within a very large pool of demographic data, and allow aggregate analysis.  
