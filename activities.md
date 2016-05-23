@@ -2,6 +2,7 @@
 layout: page
 title: Activities
 permalink: /activities/
+layout: single
 ---
 
 **June 8-12, 2015**
