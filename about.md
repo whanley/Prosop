@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-layout:single
+layout: single
 header:
   teaser: 1882-census.jpg
 ---
