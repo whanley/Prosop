@@ -1,8 +1,13 @@
 ---
-layout: post
 title:  "Visit to Leipzig"
 date:   2015-11-16 10:45:11 -0400
-categories: leipzig aksw riechert
+header:
+  image: census.jpg
+  caption: "caption"
+categories: 
+  - leipzig 
+  - aksw 
+  - riechert
 ---
 I'm spending the month of November in Leipzig, thanks to a [research visit grant](https://www.daad.org/researchvisit) from the [DAAD](https://www.daad.de/en/). My host is Professor [Thomas Riechert](http://www.thomas-riechert.de/about/en/thomas-riechert) of the Leipzig University of Applied Sciences ([HTWK Leipzig](https://www.htwk-leipzig.de/en/)). Thomas is one of very few people worldwide to have produced a graph database in the domain of history: the [Catalogus Professorum](http://catalogus-professorum.org/website/page!en?m=http://catalogus-professorum.org/lipsiensis/). He is currently working to link that list of University of Leipzig professors with other historical databases of European university professors, through the [Heloise project](http://heloise.hypotheses.org/).
 
