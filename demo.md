@@ -6,12 +6,12 @@ layout: single
 header:
   overlay_image: census.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_label: "More Info"
-  cta_url: "https://unsplash.com"
+  caption: "1882 census of Egypt"
+  cta_label: "Open"
+  cta_url: "http://128.186.155.246:8890/sparql"
 ---
 
-Execute SPARQL queries using this [form](http://128.186.155.246:8890/). Login: guest; password: guest
+Execute SPARQL queries using this [form](http://128.186.155.246:8890/sparql). Login: guest; password: guest
 
 The databases available include:
 
