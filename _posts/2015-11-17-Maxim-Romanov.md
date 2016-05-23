@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Maxim Romanov"
 date:   2015-11-17 10:45:11 -0400
 header:
