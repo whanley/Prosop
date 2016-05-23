@@ -61,7 +61,7 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Will Hanley
+  name             : "Will Hanley"
   avatar           :
   bio              :
   location         : "Florida State University"
@@ -96,8 +96,6 @@ include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
