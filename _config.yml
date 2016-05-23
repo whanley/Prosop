@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prosop: semantic shadows of persons past"
+title                    : "Site Title"
 title_separator          : "-"
-name                     : "Will Hanley"
-description              : "For years now, microhistorian have brought computers with them to the archives. Their research has produced great lists of names, but for the most part, each historian's data set exists in solitude from those of other historians. History's local turn has been accompanied by a transnational turn, and here too researchers struggle to share and aggregate their data. This project aims to offer a tool that will accomplish this goal. Prosop is a workflow that uses a semantic data model to produce a linked, flexible pool of historical names and demographic information. It will put the best features of social networking applications, collaborative wikis, geotagging, and data search and filtering at the service of social historians. Prosop is designed to meet the disciplinary requirements of professional historians, while remaining attractive to amateur historians and genealogists."
-url                      : "local:4000"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,11 +61,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : Will Hanley
-  avatar           :
-  bio              :
-  location         : "Florida State University"
-  email            : willpdfs@gmail.com
+  name             : "Your Name"
+  avatar           : "bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : whanley
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -81,7 +81,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          :
@@ -96,6 +96,8 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
