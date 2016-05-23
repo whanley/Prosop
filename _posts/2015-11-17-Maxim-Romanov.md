@@ -2,7 +2,12 @@
 layout: post
 title:  "Maxim Romanov"
 date:   2015-11-17 10:45:11 -0400
-categories: leipzig aksw romanov
+header:
+  overlay_image: census.jpg
+categories: 
+	- leipzig 
+	- aksw 
+	- romanov
 ---
 Monday, November 9 was my first visit to the University of Leipzig Augustusplatz campus. The Digital Humanities chair and AKSW are on the 6th and 9th floors of the sharp, new Paulinum building, erected on the site of the medieval Paulinerkirche, demolished in 1968.
 

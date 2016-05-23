@@ -2,8 +2,7 @@
 title:  "Visit to Leipzig"
 date:   2015-11-16 10:45:11 -0400
 header:
-  image: census.jpg
-  caption: "caption"
+  overlay_image: census.jpg
 categories: 
   - leipzig 
   - aksw 
