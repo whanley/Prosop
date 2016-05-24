@@ -8,8 +8,14 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-**June 8-12, 2015**
+**June 20-24, 2016**
 Digital Ottomans, Institute for Advanced Study, Princeton
+
+**February 26, 2016**
+[Digital workshop](http://as.vanderbilt.edu/history/docs/Feb12-26Digital2.pdf), Vanderbilt History Seminar
+
+**June 8-12, 2015**
+[Digital Ottomans](https://www.academia.edu/12907642/The_Digital_Ottoman_Platform_Workshop), Institute for Advanced Study, Princeton
 
 **March 20-21, 2015**
 [Moving People/Linking Lives](http://movingpeoplelinkinglives.org/), University of Virginia
@@ -37,5 +43,4 @@ Awarded NEH Digital Humanities Start-Up Grant [HD-51269-11](https://securegrants
 
 
 **Are there other ways to participate?**
-
 Prosop is an ongoing project. In addition to possible future workshops, we are looking for beta testers. If you are not able to join this workshop, but might want to be involved in the future, please get in touch via our website and join our [mailing list](https://groups.google.com/d/forum/prosop).
