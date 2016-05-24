@@ -5,10 +5,7 @@ header:
   overlay_image: census.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 
-categories: 
-	- leipzig 
-	- aksw 
-	- romanov
+categories: leipzig aksw romanov
 ---
 Monday, November 9 was my first visit to the University of Leipzig Augustusplatz campus. The Digital Humanities chair and AKSW are on the 6th and 9th floors of the sharp, new Paulinum building, erected on the site of the medieval Paulinerkirche, demolished in 1968.
 

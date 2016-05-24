@@ -14,7 +14,7 @@ description              : "For years now, microhistorian have brought computers
 url                      : "http://prosop.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
-teaser                   : "1882-census.jpg"
+teaser                   : census.jpg
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
